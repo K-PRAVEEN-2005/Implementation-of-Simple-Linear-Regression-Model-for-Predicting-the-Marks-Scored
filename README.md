@@ -29,9 +29,9 @@ Program:
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 
-Developed by: NARRA RAMYA
+Developed by: PRAVEEN K
 
-RegisterNumber: 212223040128  
+RegisterNumber: 212223230153 
 */
 
 
